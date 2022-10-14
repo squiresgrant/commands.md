@@ -1,67 +1,59 @@
 -- tli tools
 
-ncdu #disc usage
-
-dooit #in the name
-
-hexyl #hex dumper
-
-nudoku #sudoku
-
-calcure # calendar/tm
-
-tmpmail #temp mail
-
-tt #typing test
-
-netris #alright testris
-
-mprocs #nice term man
-
-rates #currency rates
-
-exa #better ls
-
-nethack #term game
-
-qrshot #https://github.com/sdushantha/dotfiles/blob/master/bin/bin/utils/qrshot
-
-wordle #
-
-project_manager #cargo install project_manager
-
-dym #didyoumean-git
-
-bat #better cat command
-
-ipscan # angry ip scanner
-
-tldr #better man
-
-calc #math stuff
-
-nnn #terminal file man
-
-kak #just a better neovim lol, 'yay -S kakoune'
-
-delta #compare two files
-
-aerc #GOOD terminal mail
-
+ncdu #disc usage</br>
+dooit #in the name</br>
+hexyl #hex dumper</br>
+nudoku #sudoku</br>
+calcure # calendar/tm</br>
+tmpmail #temp mail</br>
+tt #typing test</br>
+netris #alright testris</br>
+mprocs #nice term man</br>
+rates #currency rates</br>
+exa #better ls</br>
+nethack #term game</br>
+qrshot #https://github.com/sdushantha/dotfiles/blob/master/bin/bin/utils/qrshot</br>
+wordle #</br>
+project_manager #cargo install</br> project_manager</br>
+dym #didyoumean-git</br>
+bat #better cat command</br>
+ipscan # angry ip scanner</br>
+tldr #better man</br>
+calc #math stuff</br>
+nnn #terminal file man</br>
+kak #just a better neovim lol, 'yay -S kakoune'</br>
+delta #compare two files</br>
+aerc #GOOD terminal mail</br>
 
 -- gui tools
 
-anki #card learning tool
+anki #card learning tool</br>
+bottles #wine managment stuff</br>
+kolourpaint #ms paint</br>
+tabby #awesome terminal</br>
+st #suckless</br>
+kitty #my main</br>
+vscodium #code editor</br>
+min #nice browser</br>
+firefox-developer-edition</br>
 
-bottles #wine managment stuff
 
-kolourpaint #ms paint
+-- vscodium extensions
 
-tabby #awesome terminal
-
-st #suckless
-
-kitty #my main
+auto rename tag</br>
+better comments</br>
+bracket pair colorizer</br>
+chalice icon theme</br>
+code runner</br>
+code spell checker</br>
+codesnap</br>
+filesize</br>
+git graph</br>
+import cost</br>
+mayukai theme</br>
+prettier</br>
+project manager</br>
+remark</br>
 
 -- things to check out
 
