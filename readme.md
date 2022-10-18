@@ -24,6 +24,9 @@ nnn #terminal file man</br>
 kak #just a better neovim lol, 'yay -S kakoune'</br>
 delta #compare two files</br>
 aerc #GOOD terminal mail</br>
+cmus #music player</br>
+bunnyfetch #personal fav fetch</br>
+jrnl #great personal journal:) good for all my inner thoughts</br>
 
 -- gui tools
 
