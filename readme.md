@@ -1,5 +1,5 @@
 
-
+just wanted to make a list of the (mostly) open source projects that i think are awesome and deserve recognition
 ## tli tools
 
 [ncdu](https://github.com/rofl0r/ncdu) #disc usage</br>
@@ -28,7 +28,8 @@ netris #alright tetris</br>
 [cmus](https://github.com/cmus/cmus) #music player</br>
 [bunnyfetch](https://github.com/Rosettea/bunnyfetch) #personal fav fetch</br>
 [jrnl](https://github.com/jrnl-org/jrnl) #great personal journal:) good for all my inner thoughts</br>
-
+[betterdiscordctl](https://github.com/bb010g/betterdiscordctl) #neat and quick way to install bd</br>
+[mangal](https://github.com/metafates/mangal) #awesome manga tui
 ## gui tools
 
 [ipscan](https://github.com/angryip/ipscan) # angry ip scanner</br>
@@ -40,8 +41,11 @@ netris #alright tetris</br>
 [kitty](https://github.com/kovidgoyal/kitty) #my main</br>
 [vscodium](https://github.com/VSCodium/vscodium) #code editor</br>
 [min](https://github.com/minbrowser/min) #nice browser</br>
-[firefox-developer-edition](https://www.mozilla.org/en-US/firefox/developer/)</br>
 
+## proprietary!!11!1
+
+[firefox-developer-edition](https://www.mozilla.org/en-US/firefox/developer/)</br>
+[warp-cli](https://developers.cloudflare.com/warp-client/get-started/linux/)</br>
 ## vscod(e || ium) extensions
 
 better comments</br>
@@ -57,6 +61,15 @@ mayukai theme</br>
 prettier</br>
 project manager</br>
 remark</br>
+
+
+## websites or servers
+
+[vimstart](https://github.com/okitavera/vimstart) #(self hosted) cool startpage
+[nextcloud](https://github.com/nextcloud) #(self hosted) cloud storage
+[gitea](https://github.com/go-gitea/gitea) #(self hosted) git server/site
+## other resources
+[catppuccin](https://github.com/catppuccin/catppuccin) #awesome theme for almost everything
 
 ## things (for me) to check out
 
