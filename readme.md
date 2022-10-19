@@ -29,7 +29,9 @@ netris #alright tetris</br>
 [bunnyfetch](https://github.com/Rosettea/bunnyfetch) #personal fav fetch</br>
 [jrnl](https://github.com/jrnl-org/jrnl) #great personal journal:) good for all my inner thoughts</br>
 [betterdiscordctl](https://github.com/bb010g/betterdiscordctl) #neat and quick way to install bd</br>
-[mangal](https://github.com/metafates/mangal) #awesome manga tui
+[mangal](https://github.com/metafates/mangal) #awesome manga tui</br>
+[spacevim](https://spacevim.org/) #very cool vim mod</br>
+[tig](https://jonas.github.io/tig/) #tui easy git</br>
 ## gui tools
 
 [ipscan](https://github.com/angryip/ipscan) # angry ip scanner</br>
@@ -63,7 +65,7 @@ project manager</br>
 remark</br>
 
 
-## websites or servers
+## selfhosted
 
 [vimstart](https://github.com/okitavera/vimstart) #(self hosted) keybind based startpage</br>
 [nextcloud](https://github.com/nextcloud) #(self hosted) cloud storage</br>
