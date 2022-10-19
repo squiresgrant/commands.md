@@ -65,12 +65,12 @@ remark</br>
 
 ## websites or servers
 
-[vimstart](https://github.com/okitavera/vimstart) #(self hosted) cool startpage
-[nextcloud](https://github.com/nextcloud) #(self hosted) cloud storage
-[gitea](https://github.com/go-gitea/gitea) #(self hosted) git server/site
+[vimstart](https://github.com/okitavera/vimstart) #(self hosted) keybind based startpage</br>
+[nextcloud](https://github.com/nextcloud) #(self hosted) cloud storage</br>
+[gitea](https://github.com/go-gitea/gitea) #(self hosted) git server/site</br>
 ## other resources
-[catppuccin](https://github.com/catppuccin/catppuccin) #awesome theme for almost everything
+[catppuccin](https://github.com/catppuccin/catppuccin) #awesome theme for almost everything</br>
 
 ## things (for me) to check out
 
-[syncthing](https://github.com/syncthing/syncthing)
+[syncthing](https://github.com/syncthing/syncthing)</br>
