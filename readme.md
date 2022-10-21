@@ -59,7 +59,7 @@ codesnap</br>
 filesize</br>
 git graph</br>
 import cost</br>
-mayukai theme</br>
+catppuccin theme (macchiato)/mayukai theme</br>
 prettier</br>
 project manager</br>
 remark</br>
@@ -70,9 +70,10 @@ remark</br>
 [vimstart](https://github.com/okitavera/vimstart) #(self hosted) keybind based startpage</br>
 [nextcloud](https://github.com/nextcloud) #(self hosted) cloud storage</br>
 [gitea](https://github.com/go-gitea/gitea) #(self hosted) git server/site</br>
+[syncthing](https://github.com/syncthing/syncthing) #(self hosted) file sharing</br>
 ## other resources
 [catppuccin](https://github.com/catppuccin/catppuccin) #awesome theme for almost everything</br>
+[firefox css](https://firefoxcss-store.github.io/) #a bunch of firefox (userChrome) css themes</br>
 
-## things (for me) to check out
 
-[syncthing](https://github.com/syncthing/syncthing)</br>
+
