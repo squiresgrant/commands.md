@@ -36,6 +36,7 @@ netris #alright tetris</br>
 [gping](https://github.com/orf/gping) # ping with a graph</br>
 [steam-tui](https://github.com/dmadisetti/steam-tui) #steam tui</br>
 [profanity](https://github.com/profanity-im/profanity) #xmpp client</br>
+[tuir](https://gitlab.com/ajak/tuir) #terminal reddit!</br>
 
 ## gui tools
 
