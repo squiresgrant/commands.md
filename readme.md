@@ -32,6 +32,11 @@ netris #alright tetris</br>
 [mangal](https://github.com/metafates/mangal) #awesome manga tui</br>
 [spacevim](https://spacevim.org/) #very cool vim mod</br>
 [tig](https://jonas.github.io/tig/) #tui easy git</br>
+[bottom](https://github.com/ClementTsang/bottom) #btm, nice resource manager</br>
+[gping](https://github.com/orf/gping) # ping with a graph</br>
+[steam-tui](https://github.com/dmadisetti/steam-tui) #steam tui</br>
+[profanity](https://github.com/profanity-im/profanity) #xmpp client</br>
+
 ## gui tools
 
 [ipscan](https://github.com/angryip/ipscan) # angry ip scanner</br>
