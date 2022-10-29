@@ -37,6 +37,7 @@ netris #alright tetris</br>
 [steam-tui](https://github.com/dmadisetti/steam-tui) #steam tui</br>
 [profanity](https://github.com/profanity-im/profanity) #xmpp client</br>
 [tuir](https://gitlab.com/ajak/tuir) #terminal reddit!</br>
+[dust](https://github.com/bootandy/dust) #nice du cli</br>
 
 ## gui tools
 
