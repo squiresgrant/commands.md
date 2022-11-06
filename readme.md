@@ -1,6 +1,6 @@
 
 just wanted to make a list of the (mostly) open source projects that i think are awesome and deserve recognition
-## tli tools
+## tli/cli tools
 
 [ncdu](https://github.com/rofl0r/ncdu) #disc usage</br>
 [dooit](https://github.com/kraanzu/dooit) #todo manager</br>
@@ -21,6 +21,7 @@ netris #alright tetris</br>
 [bat](https://github.com/sharkdp/bat) #better cat command</br>
 [tldr](https://github.com/tldr-pages/tldr) #better man</br>
 [calc](https://github.com/lcn2/calc) #math stuff</br>
+[kalkure](https://github.com/PaddiM8/kalker) #cli calculator</br>
 [nnn](https://github.com/jarun/nnn) #terminal file man</br>
 [kak](https://github.com/mawww/kakoune) #just a better neovim</br>
 [delta](https://github.com/dandavison/delta) #compare two files</br>
