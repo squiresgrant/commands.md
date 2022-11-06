@@ -23,6 +23,7 @@ netris #alright tetris</br>
 [calc](https://github.com/lcn2/calc) #math stuff</br>
 [kalkure](https://github.com/PaddiM8/kalker) #cli calculator</br>
 [nnn](https://github.com/jarun/nnn) #terminal file man</br>
+[xplr](https://github.com/sayanarijit/xplr) #more advanced file manager tui</br>
 [kak](https://github.com/mawww/kakoune) #just a better neovim</br>
 [delta](https://github.com/dandavison/delta) #compare two files</br>
 [aerc](https://github.com/philips/aerc) #GOOD terminal mail</br>
@@ -39,6 +40,14 @@ netris #alright tetris</br>
 [profanity](https://github.com/profanity-im/profanity) #xmpp client</br>
 [tuir](https://gitlab.com/ajak/tuir) #terminal reddit!</br>
 [dust](https://github.com/bootandy/dust) #nice du cli</br>
+[just](https://github.com/casey/just) #make replacmentL)</br>
+[bitwise](https://github.com/mellowcandle/bitwise) #bit manipulator</br>
+[cgasm](https://github.com/bnagy/cgasm) #asm documentation</br>
+[bcal](https://github.com/jarun/bcal) #bit/bytes/address calculator</br>
+[grex](https://github.com/pemistahl/grex) #regex generator</br>
+[mapscii](https://github.com/rastapasta/mapscii) #honestly amazing map</br>
+[bandwhich](https://github.com/imsnif/bandwhich) #bandwidth/network thingy</br>
+[pastel](https://github.com/sharkdp/pastel) #color utils</br>
 
 ## gui tools
 
