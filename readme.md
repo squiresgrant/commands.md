@@ -48,6 +48,8 @@ netris #alright tetris</br>
 [mapscii](https://github.com/rastapasta/mapscii) #honestly amazing map</br>
 [bandwhich](https://github.com/imsnif/bandwhich) #bandwidth/network thingy</br>
 [pastel](https://github.com/sharkdp/pastel) #color utils</br>
+[croc](https://github.com/schollz/croc) #nice tool for file transfer</br>
+[tran](https://github.com/abdfnx/tran) #similar to croc but tui</br>
 
 ## gui tools
 
