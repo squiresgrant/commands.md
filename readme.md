@@ -67,6 +67,7 @@ netris #alright tetris</br>
 
 [firefox-developer-edition](https://www.mozilla.org/en-US/firefox/developer/)</br>
 [warp-cli](https://developers.cloudflare.com/warp-client/get-started/linux/)</br>
+
 ## vscod(e || ium) extensions
 
 better comments</br>
