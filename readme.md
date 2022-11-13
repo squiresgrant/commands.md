@@ -51,6 +51,12 @@ netris #alright tetris</br>
 [croc](https://github.com/schollz/croc) #nice tool for file transfer</br>
 [tran](https://github.com/abdfnx/tran) #similar to croc but tui</br>
 [anup](https://github.com/Acizza/anup) #anilist tui:)</br>
+[jqp](https://github.com/noahgorstein/jqp) #json playground</br>
+[helix](https://github.com/helix-editor/helix) #kakoune-esque editor</br>
+[so](https://github.com/samtay/so) #stackoverflow tui</br>
+[wik](https://github.com/yashsinghcodes/wik) #wiki cli</br>
+[tokei](https://github.com/XAMPPRocky/tokei) #project stats</br>
+
 ## gui tools
 
 [ipscan](https://github.com/angryip/ipscan) # angry ip scanner</br>
@@ -62,26 +68,18 @@ netris #alright tetris</br>
 [kitty](https://github.com/kovidgoyal/kitty) #my main</br>
 [vscodium](https://github.com/VSCodium/vscodium) #code editor</br>
 [min](https://github.com/minbrowser/min) #nice browser</br>
-
-## proprietary!!11!1
-
-[firefox-developer-edition](https://www.mozilla.org/en-US/firefox/developer/)</br>
-[warp-cli](https://developers.cloudflare.com/warp-client/get-started/linux/)</br>
+[firefox-developer-edition](https://www.mozilla.org/en-US/firefox/developer/) #main browser</br>
 
 ## vscod(e || ium) extensions
 
 better comments</br>
-bracket pair colorizer</br>
 chalice icon theme</br>
 code runner</br>
 code spell checker</br>
-codesnap</br>
-filesize</br>
 git graph</br>
 import cost</br>
 catppuccin theme (macchiato)/mayukai theme</br>
 prettier</br>
-project manager</br>
 remark</br>
 
 
