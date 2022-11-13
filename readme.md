@@ -50,7 +50,7 @@ netris #alright tetris</br>
 [pastel](https://github.com/sharkdp/pastel) #color utils</br>
 [croc](https://github.com/schollz/croc) #nice tool for file transfer</br>
 [tran](https://github.com/abdfnx/tran) #similar to croc but tui</br>
-
+[anup](https://github.com/Acizza/anup) #anilist tui:)</br>
 ## gui tools
 
 [ipscan](https://github.com/angryip/ipscan) # angry ip scanner</br>
