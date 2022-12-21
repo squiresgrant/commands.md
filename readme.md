@@ -56,6 +56,8 @@ netris #alright tetris</br>
 [so](https://github.com/samtay/so) #stackoverflow tui</br>
 [wik](https://github.com/yashsinghcodes/wik) #wiki cli</br>
 [tokei](https://github.com/XAMPPRocky/tokei) #project stats</br>
+[sku](https://github.com/fedeztk/sku) #terminal sudoku</br>
+[mangadesk](https://github.com/darylhjd/mangadesk) #another manga thing!!</br>
 
 ## gui tools
 
